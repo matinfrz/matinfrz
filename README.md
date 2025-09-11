@@ -6,7 +6,7 @@
 I’m a **Front-end Developer** passionate about crafting clean UI/UX with **JavaScript**, **GSAP**, and **Three.js**.  
 My current goal is to become a **professional developer** and land a role in an international company.  
 
-## <img src="overall.gif" width="25"/> What I'm working on
+## <img src="cw.gif" width="25"/> What I'm working on
 - Diving deeper into **JavaScript (ES6+)** and **GSAP animations**.  
 - Building interactive effects with **WebGL/Three.js**.  
 - Creating reusable components for **WordPress/Elementor**.  
