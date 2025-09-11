@@ -4,6 +4,9 @@
 Building responsive, SEO-friendly, and high-performance websites.  
 Currently learning **JavaScript & React** and sharing real-world projects here.
 
+<img src="transparent-Photoroom (1).png
+" height="350" />
+
 ---
 
 ## 📊 GitHub Stats
