@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme2.png" height="350" />
+  <img src="ReadMe.png" height="350" />
 </p>
 # Hi, I'm Matin 👋
 
