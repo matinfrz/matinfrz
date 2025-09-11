@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="readme.png" height="350" />
+</p>
 # Hi, I'm Matin 👋
 
 💻 **WordPress Expert | Frontend Developer in progress**  
@@ -10,11 +13,7 @@ Currently learning **JavaScript & React** and sharing real-world projects here.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="transparent-Photoroom.png" height="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=matinfrz&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinfrz&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matinfrz&theme=tokyonight&hide_border=true" height="150" />
