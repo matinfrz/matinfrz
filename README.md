@@ -3,8 +3,7 @@
 </p>
 
 ## <img src="overview.gif" width="35"/> Overview
-I’m a **Front-end Developer** passionate about crafting clean UI/UX with **JavaScript**, **GSAP**, and **Three.js**.  
-My current goal is to become a **professional developer** and land a role in an international company.  
+I have several years of experience in web design and development using tools like Webflow, WordPress, and Shopify (with custom coding). Currently, I'm focusing on Frontend Development to bring my startup ideas to life without limitations. I share my projects publicly to get feedback and connect with other developers.
 
 ## <img src="skilles-3.gif" width="35"/> What I'm working on
 - Diving deeper into **JavaScript (ES6+)** and **GSAP animations**.  
