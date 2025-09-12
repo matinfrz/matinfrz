@@ -2,16 +2,16 @@
   <img src="ReadMe-4.png" height="350" />
 </p>
 
-## <img src="overview.gif" width="25"/> Overview
+## <img src="overview.gif" width="35"/> Overview
 I’m a **Front-end Developer** passionate about crafting clean UI/UX with **JavaScript**, **GSAP**, and **Three.js**.  
 My current goal is to become a **professional developer** and land a role in an international company.  
 
-## <img src="cw.gif" width="25"/> What I'm working on
+## <img src="cw.gif" width="35"/> What I'm working on
 - Diving deeper into **JavaScript (ES6+)** and **GSAP animations**.  
 - Building interactive effects with **WebGL/Three.js**.  
 - Creating reusable components for **WordPress/Elementor**.  
 
- ## <img src="skilles-4.gif" width="20"/> Skills
+ ## <img src="skilles-4.gif" width="35"/> Skills
 
 <p align="left">  
   <!-- JavaScript -->
@@ -37,7 +37,7 @@ My current goal is to become a **professional developer** and land a role in an 
 </p>
 
 
- ## <img src="skilles-3.gif" width="20"/> Learning
+ ## <img src="skilles-3.gif" width="35"/> Learning
 
 <p align="left">  
   <!-- Git -->
