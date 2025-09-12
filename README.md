@@ -6,10 +6,10 @@
 I’m a **Front-end Developer** passionate about crafting clean UI/UX with **JavaScript**, **GSAP**, and **Three.js**.  
 My current goal is to become a **professional developer** and land a role in an international company.  
 
-## <img src="cw.gif" width="35"/> What I'm working on
+## <img src="skilles-3.gif" width="35"/> What I'm working on
 - Diving deeper into **JavaScript (ES6+)** and **GSAP animations**.  
 - Building interactive effects with **WebGL/Three.js**.  
-- Creating reusable components for **WordPress/Elementor**.  
+- Currently Learning -->  <img src="icons8-react-100 (3).png" width="20"/>  <img src="icons8-tailwind-css-100 (1).png" width="20"/>   <img src="icons8-sql-100.png" width="20"/> 
 
  ## <img src="skilles-4.gif" width="35"/> Skills
 
@@ -37,14 +37,4 @@ My current goal is to become a **professional developer** and land a role in an 
 </p>
 
 
- ## <img src="skilles-3.gif" width="35"/> Learning
-
-<p align="left">  
-  <!-- Git -->
-  <img src="icons8-git-100.png" width="40" height="40"/>
-
-  <!-- GitHub -->
-  <img src="icons8-github-100 (1).png" width="40" height="40"/>
-
-</p>
 
