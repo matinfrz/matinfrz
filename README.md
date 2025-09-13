@@ -6,8 +6,8 @@
 I have several years of experience in web design and development using tools like Webflow, WordPress, and Shopify (with custom coding). Currently, I'm focusing on Frontend Development to bring my startup ideas to life without limitations. I share my projects publicly to get feedback and connect with other developers.
 
 ## <img src="skilles-3.gif" width="35"/> What I'm working on
-- Diving deeper into **JavaScript (ES6+)** and **GSAP animations**.  
-- Building interactive effects with **WebGL/Three.js**.  
+- Finishing the **JavaScript (ES6+)** Learning.  
+- Building some practice project (currently doing "To Do Pro").
 - Currently Learning -->  <img src="icons8-react-100 (3).png" width="20"/>  <img src="icons8-tailwind-css-100 (1).png" width="20"/>   <img src="icons8-sql-100.png" width="20"/> 
 
  ## <img src="skilles-4.gif" width="35"/> Skills
