@@ -7,7 +7,7 @@ I have several years of experience in web design and development using tools lik
 
 ## <img src="skilles-3.gif" width="35"/> What I'm working on
 - Finishing the **JavaScript (ES6+)** Learning.  
-- Building some practice project (currently doing [To Do Pro] (https://github.com/matinfrz/To-Do-Pro)).
+- Building some practice project (currently doing [To Do Pro](https://github.com/matinfrz/To-Do-Pro)).
 - Currently Learning -->  <img src="icons8-react-100 (3).png" width="20"/>  <img src="icons8-tailwind-css-100 (1).png" width="20"/>   <img src="icons8-sql-100.png" width="20"/> 
 
  ## <img src="skilles-4.gif" width="35"/> Skills
